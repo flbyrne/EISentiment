@@ -1,0 +1,9 @@
+gunicorn==19.9.0
+requests==2.20.0
+bokeh==1.4.0
+statsmodels==0.11.0
+beautifulsoup4==4.9.3
+retrying
+spacy
+scikit-learn
+lxml

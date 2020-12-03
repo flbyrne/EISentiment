@@ -1,0 +1,15 @@
+pandas
+bokeh==1.4.0
+dill
+flask
+jinja2
+pip
+simplejson
+nomkl
+bokeh
+statsmodels
+bs4
+retrying
+spacy
+scikit-learn
+lxml
